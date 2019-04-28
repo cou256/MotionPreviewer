@@ -1,2 +1,0 @@
-# MotionPreviewer
-モデルのモーションのPreviewを行う
